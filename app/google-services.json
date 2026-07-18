@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1076613776345",
-    "project_id": "playgame-notif",
-    "storage_bucket": "playgame-notif.firebasestorage.app"
+    "project_number": "1056200088785",
+    "project_id": "piket88-app",
+    "storage_bucket": "piket88-app.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1076613776345:android:f15d92f80b05860a89cfc8",
+        "mobilesdk_app_id": "1:1056200088785:android:d7fb295d5ab2af6fef79f0",
         "android_client_info": {
-          "package_name": "com.simple.webapp"
+          "package_name": "com.piket88.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBFxhWdZ1ULqJbbKvA5rmo7xHaUSjTMvd4"
+          "current_key": "AIzaSyBlaLxdWDuIBjY1g1XbgcE72G4YvAnhrIM"
         }
       ],
       "services": {
